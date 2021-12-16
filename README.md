@@ -37,6 +37,7 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Butler Muwo**
+👤 **Ifza Arain**
 
 <!-- - GitHub: [@butlermuwo](https://github.com/githubhandle) -->
 <!-- - Twitter: [@ButlerMuwo](https://twitter.com/twitterhandle)
